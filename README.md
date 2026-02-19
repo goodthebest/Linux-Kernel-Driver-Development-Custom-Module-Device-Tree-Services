@@ -163,8 +163,6 @@ Send your .dts snippet, kernel log or schematic for instant feasibility check.
 **Q: Do you provide DKMS or in-tree integration?**  
 **A:** Both, depending on your production needs.
 
-**Q: Can you sign an NDA for proprietary drivers?**  
-**A:** Absolutely.
 
 [⬆ Back to top](#top)
 
